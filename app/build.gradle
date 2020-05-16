@@ -50,3 +50,13 @@ dependencies {
     kapt project(':pref_annotation_generator')
     implementation project(':pref_annotation')
 }
+tasks.whenTaskAdded { task ->
+    if (task.name == '_kaptRun') {
+        task.dependsOn 'clean'
+        task.dependsOn 'kaptDebugKotlin'
+    }
+}
+
+task _kaptRun() {
+}
+
