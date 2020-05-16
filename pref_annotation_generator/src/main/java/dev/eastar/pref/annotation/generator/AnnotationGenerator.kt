@@ -1,7 +1,6 @@
 package dev.eastar.pref.annotation.generator
 
 import dev.eastar.pref.annotation.Pref
-import dev.eastar.pref.annotation.generator.AnnotationConst.Companion.KAPT_KOTLIN_GENERATED_OPTION_NAME
 import dev.eastar.pref.annotation.util.Log
 import java.io.File
 import javax.annotation.processing.*
