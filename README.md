@@ -4,6 +4,8 @@
 
 ## [발표내용 YouTube](https://www.youtube.com/watch?v=G-e-FB3oFa4)
 
+## [AnnotationProcessing을 이용한 코드 결과물](https://git.eastar.dev/EastarPreferences)
+
 ## [찰스님 블로그 보기](https://www.charlezz.com/?p=44148)
 
 ### 이전에 사용하던 모듈
